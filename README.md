@@ -11,7 +11,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://www.github.com/KentCP/testimonials-grid-section)
-- Live Site URL: [Live Page](https://kentstestimonialsgrid.netlify.app)
+- Solution URL: [Github](https://github.com/KentCP/testimonials-grid-section)
+- Live Site URL: [Live Page](https://kentstestimonialsgrid.netlify.app/)
 
 ## My process
 
